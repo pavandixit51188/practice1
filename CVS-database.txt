@@ -1,0 +1,13 @@
+Design database :
+
+version control system
+
+file 
+version no
+parent version no
+dev_timedate
+dev_comment
+dev_id
+
+
+if file is unchanged then dont store it
